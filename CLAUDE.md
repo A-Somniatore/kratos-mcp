@@ -170,3 +170,9 @@ All tools include error handling that returns user-friendly messages instead of 
 ### Settings (2)
 - `get_settings` - Get platform settings
 - `update_settings` - Update settings
+
+## Documentation
+
+- All features must have their own markdown file in the `docs/` folder
+- Keep docs up to date when modifying features
+- Use `docs/README.md` as the main overview/index

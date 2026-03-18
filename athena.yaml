@@ -1,0 +1,13 @@
+maturity: internal
+type: tool
+display_name: "Kratos MCP Server"
+description: "MCP server exposing 77 tools and 7 resources for AI-driven Kratos platform management"
+owners:
+  - platform-engineering
+systems:
+  - kratos
+tags:
+  - mcp
+  - ai-tools
+  - python
+  - model-context-protocol
